@@ -1,0 +1,6 @@
+{
+  "name": "Mini Cloud Drive",
+  "description": "Personal cloud storage web application with secure JWT authentication, drag-and-drop file uploads, live file preview, rename, download, and 100 MB quota management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
